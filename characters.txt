@@ -1,0 +1,4 @@
+Test character files created first to git add and commit.
+- character 1
+- character 2
+- character 3
