@@ -3,3 +3,4 @@ chapter 1
 - text added first to git add and commit.
 - Changes for the second commit.
 - changes for the third commit with chapter1.txt to try 'git add.'
+- changes for fourth commit, created chapter2.txt file. and create a outline for chapter 2.
