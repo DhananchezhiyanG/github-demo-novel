@@ -5,7 +5,7 @@ CHAPTER 1
 - changes for the third commit with CHAPTER1.txt to try 'git add.'
 - changes for fourth commit, created CHAPTER2.txt file. and create a outline for CHAPTER 2.
 
-GIT COMMITS IN DETAILS
+GIT COMMITS IN DETAILS:
 - When possible,a commit should emcompass a single feature, change or fix.
 - In other way, try to keep each commit focused on a single feature/fix.
 - makes it much easier to undo or rollback changes later on.
