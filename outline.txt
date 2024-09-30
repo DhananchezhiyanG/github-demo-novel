@@ -1,3 +1,4 @@
 chapter 1
 
-- text to add first git add and commit.
+- text added first to git add and commit.
+- Changes for the second commit.
