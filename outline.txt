@@ -7,6 +7,6 @@ CHAPTER 1
 
 GIT COMMITS IN DETAILS
 - When possible,a commit should emcompass a single feature, change or fix.
-- In other way, try to keep each commit focused on a single thing.
+- In other way, try to keep each commit focused on a single feature/fix.
 - makes it much easier to undo or rollback changes later on.
 - this makes project easier to reiview.
